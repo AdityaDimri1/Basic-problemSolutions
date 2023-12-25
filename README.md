@@ -1,6 +1,6 @@
 # first-repo
-start my github
+Let's Start Coding 
 <br>
 Auther - Aditya
 <br>
-Create a first python file.
+Solve the all small basic problem 

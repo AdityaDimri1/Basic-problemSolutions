@@ -3,4 +3,4 @@ Let's Start Coding
 <br>
 Auther - Aditya
 <br>
-Solve the all small basic problem 
+Solve all small basic problem 

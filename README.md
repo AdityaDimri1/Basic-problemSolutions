@@ -5,4 +5,4 @@ Auther - Aditya
 <br>
 >Solve all small basic problem
 <br>
-__italic
+`Multiple basic problem`

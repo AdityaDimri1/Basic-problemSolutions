@@ -5,6 +5,6 @@ Auther - Aditya
 <br>
 >Solve all small basic problem
 <br>
-[Makes Things]
+
 
 

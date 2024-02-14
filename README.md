@@ -3,7 +3,7 @@ Let's Start Coding
 <br>
 Auther - Aditya
 <br>
->Solve all small basic problem
+>Solve All Small Basic Problem In python
 <br>
 
 
